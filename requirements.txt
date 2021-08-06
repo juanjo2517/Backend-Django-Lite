@@ -1,0 +1,17 @@
+# Django
+asgiref==3.4.1
+Django==3.2.6
+
+# PostgreSQL
+pytz==2021.1
+sqlparse==0.4.1
+psycopg2==2.8.6
+
+# Django Rest
+djangorestframework==3.12.2
+
+# CORS
+django-cors-headers==3.7.0
+
+# Enviroments
+django-environ==0.4.5
